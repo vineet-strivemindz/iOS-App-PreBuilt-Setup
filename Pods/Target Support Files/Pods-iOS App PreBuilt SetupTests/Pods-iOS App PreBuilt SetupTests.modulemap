@@ -1,0 +1,6 @@
+framework module Pods_iOS_App_PreBuilt_SetupTests {
+  umbrella header "Pods-iOS App PreBuilt SetupTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
